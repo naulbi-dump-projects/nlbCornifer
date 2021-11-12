@@ -1,0 +1,11 @@
+name: nlbCornifer
+version: 1.3
+main: naulbimix.nlbCornifer.Main
+author: NaulbiMIX
+description: gde okyp????
+website: https://t.me/naulbimix
+commands:
+  cornfer:
+    description: 'dai okyp'
+  cornifer:
+    description: 'ne okyp vedb ne commandMap'

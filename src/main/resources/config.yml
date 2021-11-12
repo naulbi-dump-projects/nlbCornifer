@@ -1,0 +1,25 @@
+# dai okyp
+#
+# https://t.me/naulbimix https://vk.com/naulbirtl https://naulbimix.ru
+# plugin za 0 rubles xddd
+messages:
+  noPermission: '&cу вас нет прав на изнасилование!'
+  cornifer:
+    usage: 'suka ebanis /cornifer <Ник не окупатора>'
+    playerOffline: 'suchka offline s nikom $player'
+    added: 'okypator s nikom $player dobavlen hui poimi kuda))))'
+    removed: 'eblan user $player removed blinb'
+    noPlayers: 'no clowns!'
+  cornfer:
+    usage: 'suka ebanis /cornfer list'
+    list: '$player - sosal hui'
+settings:
+  players:
+    - 'clown'
+    - 'issue'
+    - 'suck'
+    - 'your'
+    - 'mom'
+  perms:
+    cornifer: 'nlbcornifer.sosatb'
+    cornfer: 'nlbcornifer.neokyp'
